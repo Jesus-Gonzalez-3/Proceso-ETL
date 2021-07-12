@@ -1,0 +1,19 @@
+<xml>
+    <header>
+        <id>01</id>
+        <marca>Motorola</marca>
+		<origen>Chicago Illinois</origen>
+    </header>
+    <telefonos id="23221" >
+        <id>69</id>
+        <telefono>Moto E7 plus </telefono>
+        <descripcion>Smartphone Motorola Moto E7 Plus 64GB Azul Desbloqueado Motorola Desbloqueado</descripcion>
+        <precio>3800</precio>
+    </telefonos>
+    <telefonos id="23225" >
+        <id>90</id>
+        <telefono>Moto G pro 128 </telefono>
+        <descripcion>Smartphone Motorola G Pro 128 GB Azul Índigo Místico Desbloqueado</descripcion>
+        <precio>5600</precio>
+    </telefonos>
+</xml>
