@@ -3,6 +3,7 @@
         <id>01</id>
         <marca>Motorola</marca>
 		<origen>Chicago Illinois</origen>
+	    <descripcion>Motorola se fundó como Galvin Manufacturing Corporation, tenía una plantilla de cinco empleados y su intención en principio era la de fabricar un eliminador de baterías; un dispositivo que permite a los radios que usan batería funcionar con energía eléctrica.</descripcion>
     </header>
     <telefonos id="23221" >
         <id>69</id>
